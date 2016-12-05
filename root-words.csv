@@ -40,7 +40,7 @@ màu,n,valaki,MÙ,,mù,
 mayào,n,ember (Felis cattus),MÙ,valaki,BR màu yào,
 nā,n,öl,NA,,na,
 néi,n,anya,NÁ,,ná,
-nyâ,n,anya [saját],NÁ,,ná,
+nyâ,n,anyám,NÁ,,ná,
 nǎ,v,tud,NÀ,,nàa,
 nao,v,észrevesz,NÀ,,nà,
 niao,v,mozog,NÀ,,nài,
@@ -92,7 +92,7 @@ ghùo,n,út,QHÙ,"szag, nyom",xùu,
 ghàu,n,szag,QHÙ,,xù,
 ghǔnn,n,nyom,QHÙ,,xùn,
 lā,v,történik,RA,ugrik,ra,$
-la,adj,nagy,RA,ugrik > magas > nagy,ra,$
+lā,adj,nagy,RA,ugrik > magas > nagy,ra,$
 lā,v,ugrik,RA,,ra,$
 yē,n,"föld, talaj",RÁ,,ráa,$
 ryéi,n,kő,RÁ,,rái,$
@@ -139,9 +139,9 @@ thī,n,fióka,THI,,thi,
 thê,n,orr,THÍ,,thí,
 dhy̌,pron,hol?,THÌ,,thì,
 dhū,n,fa,THU,,thu,
-dhàu,v,?,THÙ,,thú,tone changed
+dhàu,v,mindjárt,THÙ,,thù,"> az, ott, közel"
 thà,int,nem,THÙ,,thàù,
-dhúo,n,test,THÚ,,thù,
+dhúo,n,test,THÚ,,thú,
 mā,n,pocok,WA,,wa,
 mai,v,hall,WÁ,,wá,
 maí,n,fül,WÁ,,wá,
